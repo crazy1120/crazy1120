@@ -73,7 +73,7 @@
 
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=LenniMikael&theme=react&border=61dafb&hide_border=true" alt="BrightestWeb" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=LenniMikael&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyDev1120&theme=react&border=61dafb&hide_border=true" alt="BrightestWeb" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=crazyDev1120&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
