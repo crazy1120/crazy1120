@@ -7,9 +7,9 @@
 <h3 align="center">Full Stack Developer from Naantali, Finland.</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=BrightestWeb&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/BrightestWeb?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/BrightestWeb?style=social">
+      <img src="https://komarev.com/ghpvc/?username=crazyDev1120&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/crazyDev1120?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/crazyDev1120?style=social">
 </div>
 
 ## Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
@@ -24,7 +24,7 @@
       <a href="https://www.linkedin.com/in/BrightestWeb/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
-      <a href="https://github.com/BrightestWeb/">
+      <a href="https://github.com/crazyDev1120/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <a href="mikael971120@gmail.com">
