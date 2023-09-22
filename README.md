@@ -18,23 +18,6 @@
 - 💬 Ask me about **_NodeJS, PHP, Python & their frameworks_**
 - 📄 Please visit [https://crazyDev1120.github.io](https://www.brightestWeb.com)
 
-## Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="27px" width="25px">
-
-<div align="center">
-      <a href="https://www.linkedin.com/in/BrightestWeb/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="https://github.com/crazyDev1120/">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <a href="mikael971120@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-      <a href="https://www.instagram.com/BrightestWeb/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-</div>
-
 ## Tools and Technologies 🛠
 
 <div align="center">
