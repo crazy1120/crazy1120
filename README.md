@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Here+is+a+Full+Stack+Developer;I+Am+A+Crazy+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Here+is+a+Full+Stack+Developer;You+Can+Call+Me+Crazy+Dev)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/techcaptain83/techcaptain83/blob/main/Logo.gif" />
 </p>
 
-<h3 align="center">Full Stack Developer from Naantali, Finland.</h3>
+<h3 align="center">Full Stack Developer from Turku, Finland.</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=crazyDev1120&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
@@ -16,7 +16,7 @@
 
 - 💻 I am currently working as a Full Stack Web Development Freelancer.
 - 💬 Ask me about **_NodeJS, PHP, Python & their frameworks_**
-- 📄 Please visit [https://crazyDev1120.github.io](https://www.brightestWeb.com)
+<!-- - 📄 Please visit [https://crazyDev1120.github.io](https://www.brightestWeb.com) -->
 
 ## Tools and Technologies 🛠
 
