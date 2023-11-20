@@ -7,16 +7,16 @@
 <h3 align="center">Full Stack Developer from Japan.</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=crazyDev1120&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/crazyDev1120?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/crazyDev1120?style=social">
+      <img src="https://komarev.com/ghpvc/?username=crazy1120&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/crazy1120?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/crazy1120?style=social">
 </div>
 
 ## Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
 
 - 💻 I am currently working as a Full Stack Web Development Freelancer.
 - 💬 Ask me about **_NodeJS, PHP, Python & their frameworks_**
-<!-- - 📄 Please visit [https://crazyDev1120.github.io](https://www.brightestWeb.com) -->
+<!-- - 📄 Please visit [https://crazy1120.github.io](https://www.brightestWeb.com) -->
 
 ## Tools and Technologies 🛠
 
@@ -56,7 +56,7 @@
 
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyDev1120&theme=react&border=61dafb&hide_border=true" alt="BrightestWeb" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=crazyDev1120&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=crazy1120&theme=react&border=61dafb&hide_border=true" alt="BrightestWeb" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=crazy1120&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
