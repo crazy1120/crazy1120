@@ -4,7 +4,7 @@
   <img src="https://github.com/techcaptain83/techcaptain83/blob/main/Logo.gif" />
 </p>
 
-<h3 align="center">Oleg Kuznetsov - Node.js Developer from Ru.</h3>
+<h3 align="center">Jackson Clarke - Node.js Developer from Moldova.</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=crazy1120&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
